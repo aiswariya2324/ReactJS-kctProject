@@ -1,5 +1,5 @@
 const header = {
-  homepage: 'http://localhost:3000/',
+  homepage: '/',
   title: 'Home',
 }
 
