@@ -1,6 +1,6 @@
 const header = {
   homepage: 'http://localhost:3000/',
-  title: 'JS.',
+  title: 'Home',
 }
 
 const about = {
